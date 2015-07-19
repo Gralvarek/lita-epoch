@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/shadowfluux/lita-epoch.png?branch=master)](https://travis-ci.org/shadowfluux/lita-epoch)
 [![Coverage Status](https://coveralls.io/repos/shadowfluux/lita-epoch/badge.png)](https://coveralls.io/r/shadowfluux/lita-epoch)
 
-TODO: Add a description of the plugin.
+A little lita plugin to display the Epoch time!
 
 ## Installation
 

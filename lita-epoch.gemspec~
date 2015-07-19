@@ -1,12 +1,12 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-epoch"
   spec.version       = "0.1.0"
-  spec.authors       = ["James Asghar"]
-  spec.email         = ["james.asghar@gmail.com"]
-  spec.description   = "Lita plugin to display the epoch time."
-  spec.summary       = "Lita plugin to display the epoch time."
-  spec.homepage      = "https://www.github.com/shadowfluux/lita-epoch"
-  spec.license       = "MIT"
+  spec.authors       = ["James"]
+  spec.email         = ["TODO: Write your email address"]
+  spec.description   = "TODO: Add a description"
+  spec.summary       = "TODO: Add a summary"
+  spec.homepage      = "TODO: Add a homepage"
+  spec.license       = "TODO: Add a license"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
   spec.files         = `git ls-files`.split($/)

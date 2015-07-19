@@ -13,10 +13,11 @@ Add lita-epoch to your Lita instance's Gemfile:
 gem "lita-epoch"
 ```
 
-## Configuration
-
-TODO: Describe any configuration attributes the plugin exposes.
-
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+```
+Lita > epoch
+The current number of seconds since the Unix Epoch is: 1437268235
+```
+
+
